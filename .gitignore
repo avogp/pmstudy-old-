@@ -1,0 +1,10 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore log files
+*.log
+*.md
