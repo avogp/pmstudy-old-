@@ -9,7 +9,4 @@ she
             res.write(JSON.stringify(posts))
         }
 
-
-
-
 })
